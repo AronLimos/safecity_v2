@@ -1,6 +1,6 @@
 # 🚔 SafeCity: Community Crime Reporting Web App 🌍
 
-SafeCity is a web application designed to empower communities by providing a centralized platform for reporting, tracking, and analyzing crime incidents. It allows users to submit crime reports, track their status, and view crime trends through interactive charts. By addressing the challenges of traditional crime reporting methods, such as misinformation and delays, SafeCity helps citizens stay informed about ongoing investigations while enabling law enforcement to efficiently manage and analyze crime data. With real-time updates and an intuitive dashboard, SafeCity enhances community safety and fosters better-informed decision-making for both citizens and authorities.
+Test SafeCity is a web application designed to empower communities by providing a centralized platform for reporting, tracking, and analyzing crime incidents. It allows users to submit crime reports, track their status, and view crime trends through interactive charts. By addressing the challenges of traditional crime reporting methods, such as misinformation and delays, SafeCity helps citizens stay informed about ongoing investigations while enabling law enforcement to efficiently manage and analyze crime data. With real-time updates and an intuitive dashboard, SafeCity enhances community safety and fosters better-informed decision-making for both citizens and authorities.
 
 ## Authors
 
